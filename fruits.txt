@@ -1,4 +1,5 @@
 echo "apple" >> fruits.txt
+echo "pineapple" >> fruits.txt
 echo "mango" >> fruits.txt
 echo "cherry" >> fruits.txt
 echo "kiwi" >> fruits.txt
