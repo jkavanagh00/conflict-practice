@@ -1,0 +1,3 @@
+echo "apple" >> fruits.txt
+echo "banana" >> fruits.txt
+echo "cherry" >> fruits.txt
